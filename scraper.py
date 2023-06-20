@@ -58,7 +58,12 @@ class BrandScraper:
         print("All car data collected.")
         driver.close()
 
+    def create_json(self):
+        with open(self.folder_name, 'w') as f:
+            json.dump(self.brand_data, f, indent=2)
+
+        print(f"{self.folder_name} successfully created")
+
 
 brand = BrandScraper()
 brand.collect_data()
-print(brand.brand_data)
