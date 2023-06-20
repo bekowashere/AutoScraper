@@ -1,0 +1,994 @@
+[
+  {
+    "brand_name": "AC",
+    "brand_detail_url": "https://www.autoevolution.com/ac/",
+    "brand_slug": "ac",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ac-sm.jpg",
+    "brand_image_path": "AC.jpg"
+  },
+  {
+    "brand_name": "ACURA",
+    "brand_detail_url": "https://www.autoevolution.com/acura/",
+    "brand_slug": "acura",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/acura-sm.jpg",
+    "brand_image_path": "ACURA.jpg"
+  },
+  {
+    "brand_name": "ALFA ROMEO",
+    "brand_detail_url": "https://www.autoevolution.com/alfa-romeo/",
+    "brand_slug": "alfa-romeo",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/alfa-romeo-sm.jpg",
+    "brand_image_path": "ALFA ROMEO.jpg"
+  },
+  {
+    "brand_name": "ALPINE",
+    "brand_detail_url": "https://www.autoevolution.com/alpine/",
+    "brand_slug": "alpine",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/alpine-sm.jpg",
+    "brand_image_path": "ALPINE.jpg"
+  },
+  {
+    "brand_name": "ARIEL",
+    "brand_detail_url": "https://www.autoevolution.com/ariel/",
+    "brand_slug": "ariel",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ariel-sm.jpg",
+    "brand_image_path": "ARIEL.jpg"
+  },
+  {
+    "brand_name": "ARO",
+    "brand_detail_url": "https://www.autoevolution.com/aro/",
+    "brand_slug": "aro",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/aro-sm.jpg",
+    "brand_image_path": "ARO.jpg"
+  },
+  {
+    "brand_name": "ARTEGA",
+    "brand_detail_url": "https://www.autoevolution.com/artega/",
+    "brand_slug": "artega",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/artega-sm.jpg",
+    "brand_image_path": "ARTEGA.jpg"
+  },
+  {
+    "brand_name": "ASTON MARTIN",
+    "brand_detail_url": "https://www.autoevolution.com/aston-martin/",
+    "brand_slug": "aston-martin",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/aston-martin-sm.jpg",
+    "brand_image_path": "ASTON MARTIN.jpg"
+  },
+  {
+    "brand_name": "AUDI",
+    "brand_detail_url": "https://www.autoevolution.com/audi/",
+    "brand_slug": "audi",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/audi-sm.jpg",
+    "brand_image_path": "AUDI.jpg"
+  },
+  {
+    "brand_name": "AURUS",
+    "brand_detail_url": "https://www.autoevolution.com/aurus/",
+    "brand_slug": "aurus",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/aurus-sm.jpg",
+    "brand_image_path": "AURUS.jpg"
+  },
+  {
+    "brand_name": "BENTLEY",
+    "brand_detail_url": "https://www.autoevolution.com/bentley/",
+    "brand_slug": "bentley",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/bentley-sm.jpg",
+    "brand_image_path": "BENTLEY.jpg"
+  },
+  {
+    "brand_name": "BMW",
+    "brand_detail_url": "https://www.autoevolution.com/bmw/",
+    "brand_slug": "bmw",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/bmw-sm.jpg",
+    "brand_image_path": "BMW.jpg"
+  },
+  {
+    "brand_name": "BRISTOL",
+    "brand_detail_url": "https://www.autoevolution.com/bristol/",
+    "brand_slug": "bristol",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/bristol-sm.jpg",
+    "brand_image_path": "BRISTOL.jpg"
+  },
+  {
+    "brand_name": "BUFORI",
+    "brand_detail_url": "https://www.autoevolution.com/bufori/",
+    "brand_slug": "bufori",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/bufori-sm.jpg",
+    "brand_image_path": "BUFORI.jpg"
+  },
+  {
+    "brand_name": "BUGATTI",
+    "brand_detail_url": "https://www.autoevolution.com/bugatti/",
+    "brand_slug": "bugatti",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/bugatti-sm.jpg",
+    "brand_image_path": "BUGATTI.jpg"
+  },
+  {
+    "brand_name": "BUICK",
+    "brand_detail_url": "https://www.autoevolution.com/buick/",
+    "brand_slug": "buick",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/buick-sm.jpg",
+    "brand_image_path": "BUICK.jpg"
+  },
+  {
+    "brand_name": "CADILLAC",
+    "brand_detail_url": "https://www.autoevolution.com/cadillac/",
+    "brand_slug": "cadillac",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/cadillac-sm.jpg",
+    "brand_image_path": "CADILLAC.jpg"
+  },
+  {
+    "brand_name": "CATERHAM",
+    "brand_detail_url": "https://www.autoevolution.com/caterham/",
+    "brand_slug": "caterham",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/caterham-sm.jpg",
+    "brand_image_path": "CATERHAM.jpg"
+  },
+  {
+    "brand_name": "CHEVROLET",
+    "brand_detail_url": "https://www.autoevolution.com/chevrolet/",
+    "brand_slug": "chevrolet",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/chevrolet-sm.jpg",
+    "brand_image_path": "CHEVROLET.jpg"
+  },
+  {
+    "brand_name": "CHRYSLER",
+    "brand_detail_url": "https://www.autoevolution.com/chrysler/",
+    "brand_slug": "chrysler",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/chrysler-sm.jpg",
+    "brand_image_path": "CHRYSLER.jpg"
+  },
+  {
+    "brand_name": "CITROEN",
+    "brand_detail_url": "https://www.autoevolution.com/citroen/",
+    "brand_slug": "citroen",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/citroen-sm.jpg",
+    "brand_image_path": "CITROEN.jpg"
+  },
+  {
+    "brand_name": "CUPRA",
+    "brand_detail_url": "https://www.autoevolution.com/cupra/",
+    "brand_slug": "cupra",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/cupra-sm.jpg",
+    "brand_image_path": "CUPRA.jpg"
+  },
+  {
+    "brand_name": "DACIA",
+    "brand_detail_url": "https://www.autoevolution.com/dacia/",
+    "brand_slug": "dacia",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/dacia-sm.jpg",
+    "brand_image_path": "DACIA.jpg"
+  },
+  {
+    "brand_name": "DAEWOO",
+    "brand_detail_url": "https://www.autoevolution.com/daewoo/",
+    "brand_slug": "daewoo",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/daewoo-sm.jpg",
+    "brand_image_path": "DAEWOO.jpg"
+  },
+  {
+    "brand_name": "DAIHATSU",
+    "brand_detail_url": "https://www.autoevolution.com/daihatsu/",
+    "brand_slug": "daihatsu",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/daihatsu-sm.jpg",
+    "brand_image_path": "DAIHATSU.jpg"
+  },
+  {
+    "brand_name": "DATSUN",
+    "brand_detail_url": "https://www.autoevolution.com/datsun/",
+    "brand_slug": "datsun",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/datsun-sm.jpg",
+    "brand_image_path": "DATSUN.jpg"
+  },
+  {
+    "brand_name": "DeLorean",
+    "brand_detail_url": "https://www.autoevolution.com/dmc/",
+    "brand_slug": "dmc",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/delorean-sm.jpg",
+    "brand_image_path": "DeLorean.jpg"
+  },
+  {
+    "brand_name": "DODGE",
+    "brand_detail_url": "https://www.autoevolution.com/dodge/",
+    "brand_slug": "dodge",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/dodge-sm.jpg",
+    "brand_image_path": "DODGE.jpg"
+  },
+  {
+    "brand_name": "DONKERVOORT",
+    "brand_detail_url": "https://www.autoevolution.com/donkervoort/",
+    "brand_slug": "donkervoort",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/donkervoort-sm.jpg",
+    "brand_image_path": "DONKERVOORT.jpg"
+  },
+  {
+    "brand_name": "DR MOTOR",
+    "brand_detail_url": "https://www.autoevolution.com/dr-motor/",
+    "brand_slug": "dr-motor",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/dr-motor-sm.jpg",
+    "brand_image_path": "DR MOTOR.jpg"
+  },
+  {
+    "brand_name": "DS AUTOMOBILES",
+    "brand_detail_url": "https://www.autoevolution.com/ds-automobiles/",
+    "brand_slug": "ds-automobiles",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ds-automobiles-sm.jpg",
+    "brand_image_path": "DS AUTOMOBILES.jpg"
+  },
+  {
+    "brand_name": "EAGLE",
+    "brand_detail_url": "https://www.autoevolution.com/eagle/",
+    "brand_slug": "eagle",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/eagle-sm.jpg",
+    "brand_image_path": "EAGLE.jpg"
+  },
+  {
+    "brand_name": "FERRARI",
+    "brand_detail_url": "https://www.autoevolution.com/ferrari/",
+    "brand_slug": "ferrari",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ferrari-sm.jpg",
+    "brand_image_path": "FERRARI.jpg"
+  },
+  {
+    "brand_name": "FIAT",
+    "brand_detail_url": "https://www.autoevolution.com/fiat/",
+    "brand_slug": "fiat",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/fiat-sm.jpg",
+    "brand_image_path": "FIAT.jpg"
+  },
+  {
+    "brand_name": "FISKER",
+    "brand_detail_url": "https://www.autoevolution.com/fisker/",
+    "brand_slug": "fisker",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/fisker-sm.jpg",
+    "brand_image_path": "FISKER.jpg"
+  },
+  {
+    "brand_name": "FORD",
+    "brand_detail_url": "https://www.autoevolution.com/ford/",
+    "brand_slug": "ford",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ford-sm.jpg",
+    "brand_image_path": "FORD.jpg"
+  },
+  {
+    "brand_name": "FSO",
+    "brand_detail_url": "https://www.autoevolution.com/fso/",
+    "brand_slug": "fso",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/fso-sm.jpg",
+    "brand_image_path": "FSO.jpg"
+  },
+  {
+    "brand_name": "GEELY",
+    "brand_detail_url": "https://www.autoevolution.com/geely/",
+    "brand_slug": "geely",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/geely-sm.jpg",
+    "brand_image_path": "GEELY.jpg"
+  },
+  {
+    "brand_name": "GENESIS",
+    "brand_detail_url": "https://www.autoevolution.com/genesis/",
+    "brand_slug": "genesis",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/genesis-sm.jpg",
+    "brand_image_path": "GENESIS.jpg"
+  },
+  {
+    "brand_name": "GMC",
+    "brand_detail_url": "https://www.autoevolution.com/gmc/",
+    "brand_slug": "gmc",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/gmc-sm.jpg",
+    "brand_image_path": "GMC.jpg"
+  },
+  {
+    "brand_name": "GORDON MURRAY Automotive",
+    "brand_detail_url": "https://www.autoevolution.com/gordon-murray-automotive/",
+    "brand_slug": "gordon-murray-automotive",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/gordon-murray-automotive-sm.jpg",
+    "brand_image_path": "GORDON MURRAY Automotive.jpg"
+  },
+  {
+    "brand_name": "GTA Motor",
+    "brand_detail_url": "https://www.autoevolution.com/gta-motor/",
+    "brand_slug": "gta-motor",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/gta-motor-sm.jpg",
+    "brand_image_path": "GTA Motor.jpg"
+  },
+  {
+    "brand_name": "HINDUSTAN",
+    "brand_detail_url": "https://www.autoevolution.com/hindustan/",
+    "brand_slug": "hindustan",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/hindustan-sm.jpg",
+    "brand_image_path": "HINDUSTAN.jpg"
+  },
+  {
+    "brand_name": "HOLDEN",
+    "brand_detail_url": "https://www.autoevolution.com/holden/",
+    "brand_slug": "holden",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/holden-sm.jpg",
+    "brand_image_path": "HOLDEN.jpg"
+  },
+  {
+    "brand_name": "HONDA",
+    "brand_detail_url": "https://www.autoevolution.com/honda/",
+    "brand_slug": "honda",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/honda-sm.jpg",
+    "brand_image_path": "HONDA.jpg"
+  },
+  {
+    "brand_name": "HUMMER",
+    "brand_detail_url": "https://www.autoevolution.com/hummer/",
+    "brand_slug": "hummer",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/hummer-sm.jpg",
+    "brand_image_path": "HUMMER.jpg"
+  },
+  {
+    "brand_name": "HYUNDAI",
+    "brand_detail_url": "https://www.autoevolution.com/hyundai/",
+    "brand_slug": "hyundai",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/hyundai-sm.jpg",
+    "brand_image_path": "HYUNDAI.jpg"
+  },
+  {
+    "brand_name": "INEOS",
+    "brand_detail_url": "https://www.autoevolution.com/ineos/",
+    "brand_slug": "ineos",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ineos-sm.jpg",
+    "brand_image_path": "INEOS.jpg"
+  },
+  {
+    "brand_name": "INFINITI",
+    "brand_detail_url": "https://www.autoevolution.com/infiniti/",
+    "brand_slug": "infiniti",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/infiniti-sm.jpg",
+    "brand_image_path": "INFINITI.jpg"
+  },
+  {
+    "brand_name": "ISUZU",
+    "brand_detail_url": "https://www.autoevolution.com/isuzu/",
+    "brand_slug": "isuzu",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/isuzu-sm.jpg",
+    "brand_image_path": "ISUZU.jpg"
+  },
+  {
+    "brand_name": "JAGUAR",
+    "brand_detail_url": "https://www.autoevolution.com/jaguar/",
+    "brand_slug": "jaguar",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/jaguar-sm.jpg",
+    "brand_image_path": "JAGUAR.jpg"
+  },
+  {
+    "brand_name": "JEEP",
+    "brand_detail_url": "https://www.autoevolution.com/jeep/",
+    "brand_slug": "jeep",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/jeep-sm.jpg",
+    "brand_image_path": "JEEP.jpg"
+  },
+  {
+    "brand_name": "Karma",
+    "brand_detail_url": "https://www.autoevolution.com/karma/",
+    "brand_slug": "karma",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/karma-sm.jpg",
+    "brand_image_path": "Karma.jpg"
+  },
+  {
+    "brand_name": "KIA",
+    "brand_detail_url": "https://www.autoevolution.com/kia/",
+    "brand_slug": "kia",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/kia-sm.jpg",
+    "brand_image_path": "KIA.jpg"
+  },
+  {
+    "brand_name": "KOENIGSEGG",
+    "brand_detail_url": "https://www.autoevolution.com/koenigsegg/",
+    "brand_slug": "koenigsegg",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/koenigsegg-sm.jpg",
+    "brand_image_path": "KOENIGSEGG.jpg"
+  },
+  {
+    "brand_name": "KTM",
+    "brand_detail_url": "https://www.autoevolution.com/ktm/",
+    "brand_slug": "ktm",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ktm-sm.jpg",
+    "brand_image_path": "KTM.jpg"
+  },
+  {
+    "brand_name": "LADA",
+    "brand_detail_url": "https://www.autoevolution.com/lada/",
+    "brand_slug": "lada",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/lada-sm.jpg",
+    "brand_image_path": "LADA.jpg"
+  },
+  {
+    "brand_name": "LAMBORGHINI",
+    "brand_detail_url": "https://www.autoevolution.com/lamborghini/",
+    "brand_slug": "lamborghini",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/lamborghini-sm.jpg",
+    "brand_image_path": "LAMBORGHINI.jpg"
+  },
+  {
+    "brand_name": "LANCIA",
+    "brand_detail_url": "https://www.autoevolution.com/lancia/",
+    "brand_slug": "lancia",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/lancia-sm.jpg",
+    "brand_image_path": "LANCIA.jpg"
+  },
+  {
+    "brand_name": "LAND ROVER",
+    "brand_detail_url": "https://www.autoevolution.com/land-rover/",
+    "brand_slug": "land-rover",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/land-rover-sm.jpg",
+    "brand_image_path": "LAND ROVER.jpg"
+  },
+  {
+    "brand_name": "LEXUS",
+    "brand_detail_url": "https://www.autoevolution.com/lexus/",
+    "brand_slug": "lexus",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/lexus-sm.jpg",
+    "brand_image_path": "LEXUS.jpg"
+  },
+  {
+    "brand_name": "LIGHTYEAR",
+    "brand_detail_url": "https://www.autoevolution.com/lightyear/",
+    "brand_slug": "lightyear",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/lightyear-sm.jpg",
+    "brand_image_path": "LIGHTYEAR.jpg"
+  },
+  {
+    "brand_name": "LINCOLN",
+    "brand_detail_url": "https://www.autoevolution.com/lincoln/",
+    "brand_slug": "lincoln",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/lincoln-sm.jpg",
+    "brand_image_path": "LINCOLN.jpg"
+  },
+  {
+    "brand_name": "LOTUS",
+    "brand_detail_url": "https://www.autoevolution.com/lotus/",
+    "brand_slug": "lotus",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/lotus-sm.jpg",
+    "brand_image_path": "LOTUS.jpg"
+  },
+  {
+    "brand_name": "Lucid Motors",
+    "brand_detail_url": "https://www.autoevolution.com/lucid-motors/",
+    "brand_slug": "lucid-motors",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/lucid-motors-sm.jpg",
+    "brand_image_path": "Lucid Motors.jpg"
+  },
+  {
+    "brand_name": "Mahindra",
+    "brand_detail_url": "https://www.autoevolution.com/mahindra/",
+    "brand_slug": "mahindra",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mahindra-sm.jpg",
+    "brand_image_path": "Mahindra.jpg"
+  },
+  {
+    "brand_name": "MARUSSIA",
+    "brand_detail_url": "https://www.autoevolution.com/marussia-motors/",
+    "brand_slug": "marussia-motors",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/marussia-sm.jpg",
+    "brand_image_path": "MARUSSIA.jpg"
+  },
+  {
+    "brand_name": "MARUTI SUZUKI",
+    "brand_detail_url": "https://www.autoevolution.com/maruti-suzuki/",
+    "brand_slug": "maruti-suzuki",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/maruti-suzuki-sm.jpg",
+    "brand_image_path": "MARUTI SUZUKI.jpg"
+  },
+  {
+    "brand_name": "MASERATI",
+    "brand_detail_url": "https://www.autoevolution.com/maserati/",
+    "brand_slug": "maserati",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/maserati-sm.jpg",
+    "brand_image_path": "MASERATI.jpg"
+  },
+  {
+    "brand_name": "MAYBACH",
+    "brand_detail_url": "https://www.autoevolution.com/maybach/",
+    "brand_slug": "maybach",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/maybach-sm.jpg",
+    "brand_image_path": "MAYBACH.jpg"
+  },
+  {
+    "brand_name": "MAZDA",
+    "brand_detail_url": "https://www.autoevolution.com/mazda/",
+    "brand_slug": "mazda",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mazda-sm.jpg",
+    "brand_image_path": "MAZDA.jpg"
+  },
+  {
+    "brand_name": "MCLAREN",
+    "brand_detail_url": "https://www.autoevolution.com/mclaren/",
+    "brand_slug": "mclaren",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mclaren-sm.jpg",
+    "brand_image_path": "MCLAREN.jpg"
+  },
+  {
+    "brand_name": "MERCEDES BENZ",
+    "brand_detail_url": "https://www.autoevolution.com/mercedes-benz/",
+    "brand_slug": "mercedes-benz",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mercedes-benz-sm.jpg",
+    "brand_image_path": "MERCEDES BENZ.jpg"
+  },
+  {
+    "brand_name": "Mercedes-AMG",
+    "brand_detail_url": "https://www.autoevolution.com/mercedes-amg/",
+    "brand_slug": "mercedes-amg",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mercedes-amg-sm.jpg",
+    "brand_image_path": "Mercedes-AMG.jpg"
+  },
+  {
+    "brand_name": "MERCURY",
+    "brand_detail_url": "https://www.autoevolution.com/mercury/",
+    "brand_slug": "mercury",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mercury-sm.jpg",
+    "brand_image_path": "MERCURY.jpg"
+  },
+  {
+    "brand_name": "MG",
+    "brand_detail_url": "https://www.autoevolution.com/mg/",
+    "brand_slug": "mg",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mg-sm.jpg",
+    "brand_image_path": "MG.jpg"
+  },
+  {
+    "brand_name": "MINI",
+    "brand_detail_url": "https://www.autoevolution.com/mini/",
+    "brand_slug": "mini",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mini-sm.jpg",
+    "brand_image_path": "MINI.jpg"
+  },
+  {
+    "brand_name": "MITSUBISHI",
+    "brand_detail_url": "https://www.autoevolution.com/mitsubishi/",
+    "brand_slug": "mitsubishi",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/mitsubishi-sm.jpg",
+    "brand_image_path": "MITSUBISHI.jpg"
+  },
+  {
+    "brand_name": "MORGAN",
+    "brand_detail_url": "https://www.autoevolution.com/morgan/",
+    "brand_slug": "morgan",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/morgan-sm.jpg",
+    "brand_image_path": "MORGAN.jpg"
+  },
+  {
+    "brand_name": "NIO",
+    "brand_detail_url": "https://www.autoevolution.com/nio/",
+    "brand_slug": "nio",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/nio-sm.jpg",
+    "brand_image_path": "NIO.jpg"
+  },
+  {
+    "brand_name": "NISSAN",
+    "brand_detail_url": "https://www.autoevolution.com/nissan/",
+    "brand_slug": "nissan",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/nissan-sm.jpg",
+    "brand_image_path": "NISSAN.jpg"
+  },
+  {
+    "brand_name": "OLDSMOBILE",
+    "brand_detail_url": "https://www.autoevolution.com/oldsmobile/",
+    "brand_slug": "oldsmobile",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/oldsmobile-sm.jpg",
+    "brand_image_path": "OLDSMOBILE.jpg"
+  },
+  {
+    "brand_name": "OPEL",
+    "brand_detail_url": "https://www.autoevolution.com/opel/",
+    "brand_slug": "opel",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/opel-sm.jpg",
+    "brand_image_path": "OPEL.jpg"
+  },
+  {
+    "brand_name": "PAGANI",
+    "brand_detail_url": "https://www.autoevolution.com/pagani/",
+    "brand_slug": "pagani",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/pagani-sm.jpg",
+    "brand_image_path": "PAGANI.jpg"
+  },
+  {
+    "brand_name": "PANOZ",
+    "brand_detail_url": "https://www.autoevolution.com/panoz/",
+    "brand_slug": "panoz",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/panoz-sm.jpg",
+    "brand_image_path": "PANOZ.jpg"
+  },
+  {
+    "brand_name": "PERODUA",
+    "brand_detail_url": "https://www.autoevolution.com/perodua/",
+    "brand_slug": "perodua",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/perodua-sm.jpg",
+    "brand_image_path": "PERODUA.jpg"
+  },
+  {
+    "brand_name": "PEUGEOT",
+    "brand_detail_url": "https://www.autoevolution.com/peugeot/",
+    "brand_slug": "peugeot",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/peugeot-sm.jpg",
+    "brand_image_path": "PEUGEOT.jpg"
+  },
+  {
+    "brand_name": "Pininfarina",
+    "brand_detail_url": "https://www.autoevolution.com/pininfarina/",
+    "brand_slug": "pininfarina",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/pininfarina-sm.jpg",
+    "brand_image_path": "Pininfarina.jpg"
+  },
+  {
+    "brand_name": "PLYMOUTH",
+    "brand_detail_url": "https://www.autoevolution.com/plymouth/",
+    "brand_slug": "plymouth",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/plymouth-sm.jpg",
+    "brand_image_path": "PLYMOUTH.jpg"
+  },
+  {
+    "brand_name": "Polestar",
+    "brand_detail_url": "https://www.autoevolution.com/polestar/",
+    "brand_slug": "polestar",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/polestar-sm.jpg",
+    "brand_image_path": "Polestar.jpg"
+  },
+  {
+    "brand_name": "PONTIAC",
+    "brand_detail_url": "https://www.autoevolution.com/pontiac/",
+    "brand_slug": "pontiac",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/pontiac-sm.jpg",
+    "brand_image_path": "PONTIAC.jpg"
+  },
+  {
+    "brand_name": "PORSCHE",
+    "brand_detail_url": "https://www.autoevolution.com/porsche/",
+    "brand_slug": "porsche",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/porsche-sm.jpg",
+    "brand_image_path": "PORSCHE.jpg"
+  },
+  {
+    "brand_name": "PROTON",
+    "brand_detail_url": "https://www.autoevolution.com/proton/",
+    "brand_slug": "proton",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/proton-sm.jpg",
+    "brand_image_path": "PROTON.jpg"
+  },
+  {
+    "brand_name": "QOROS",
+    "brand_detail_url": "https://www.autoevolution.com/qoros/",
+    "brand_slug": "qoros",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/qoros-sm.jpg",
+    "brand_image_path": "QOROS.jpg"
+  },
+  {
+    "brand_name": "RAM Trucks",
+    "brand_detail_url": "https://www.autoevolution.com/ram-trucks/",
+    "brand_slug": "ram-trucks",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ram-trucks-sm.jpg",
+    "brand_image_path": "RAM Trucks.jpg"
+  },
+  {
+    "brand_name": "RENAULT",
+    "brand_detail_url": "https://www.autoevolution.com/renault/",
+    "brand_slug": "renault",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/renault-sm.jpg",
+    "brand_image_path": "RENAULT.jpg"
+  },
+  {
+    "brand_name": "RIMAC",
+    "brand_detail_url": "https://www.autoevolution.com/rimac/",
+    "brand_slug": "rimac",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/rimac-sm.jpg",
+    "brand_image_path": "RIMAC.jpg"
+  },
+  {
+    "brand_name": "RIVIAN",
+    "brand_detail_url": "https://www.autoevolution.com/rivian/",
+    "brand_slug": "rivian",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/rivian-sm.jpg",
+    "brand_image_path": "RIVIAN.jpg"
+  },
+  {
+    "brand_name": "ROLLS-ROYCE",
+    "brand_detail_url": "https://www.autoevolution.com/rolls-royce/",
+    "brand_slug": "rolls-royce",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/rolls-royce-sm.jpg",
+    "brand_image_path": "ROLLS-ROYCE.jpg"
+  },
+  {
+    "brand_name": "SAAB",
+    "brand_detail_url": "https://www.autoevolution.com/saab/",
+    "brand_slug": "saab",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/saab-sm.jpg",
+    "brand_image_path": "SAAB.jpg"
+  },
+  {
+    "brand_name": "SALEEN",
+    "brand_detail_url": "https://www.autoevolution.com/saleen/",
+    "brand_slug": "saleen",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/saleen-sm.jpg",
+    "brand_image_path": "SALEEN.jpg"
+  },
+  {
+    "brand_name": "SAMSUNG",
+    "brand_detail_url": "https://www.autoevolution.com/samsung/",
+    "brand_slug": "samsung",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/samsung-sm.jpg",
+    "brand_image_path": "SAMSUNG.jpg"
+  },
+  {
+    "brand_name": "SANTANA",
+    "brand_detail_url": "https://www.autoevolution.com/santana/",
+    "brand_slug": "santana",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/santana-sm.jpg",
+    "brand_image_path": "SANTANA.jpg"
+  },
+  {
+    "brand_name": "SATURN",
+    "brand_detail_url": "https://www.autoevolution.com/saturn/",
+    "brand_slug": "saturn",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/saturn-sm.jpg",
+    "brand_image_path": "SATURN.jpg"
+  },
+  {
+    "brand_name": "SCION",
+    "brand_detail_url": "https://www.autoevolution.com/scion/",
+    "brand_slug": "scion",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/scion-sm.jpg",
+    "brand_image_path": "SCION.jpg"
+  },
+  {
+    "brand_name": "SEAT",
+    "brand_detail_url": "https://www.autoevolution.com/seat/",
+    "brand_slug": "seat",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/seat-sm.jpg",
+    "brand_image_path": "SEAT.jpg"
+  },
+  {
+    "brand_name": "SKODA",
+    "brand_detail_url": "https://www.autoevolution.com/skoda/",
+    "brand_slug": "skoda",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/skoda-sm.jpg",
+    "brand_image_path": "SKODA.jpg"
+  },
+  {
+    "brand_name": "SMART",
+    "brand_detail_url": "https://www.autoevolution.com/smart/",
+    "brand_slug": "smart",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/smart-sm.jpg",
+    "brand_image_path": "SMART.jpg"
+  },
+  {
+    "brand_name": "SPYKER",
+    "brand_detail_url": "https://www.autoevolution.com/spyker/",
+    "brand_slug": "spyker",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/spyker-sm.jpg",
+    "brand_image_path": "SPYKER.jpg"
+  },
+  {
+    "brand_name": "SSANGYONG",
+    "brand_detail_url": "https://www.autoevolution.com/ssang-yong/",
+    "brand_slug": "ssang-yong",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/ssangyong-sm.jpg",
+    "brand_image_path": "SSANGYONG.jpg"
+  },
+  {
+    "brand_name": "SUBARU",
+    "brand_detail_url": "https://www.autoevolution.com/subaru/",
+    "brand_slug": "subaru",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/subaru-sm.jpg",
+    "brand_image_path": "SUBARU.jpg"
+  },
+  {
+    "brand_name": "SUZUKI",
+    "brand_detail_url": "https://www.autoevolution.com/suzuki/",
+    "brand_slug": "suzuki",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/suzuki-sm.jpg",
+    "brand_image_path": "SUZUKI.jpg"
+  },
+  {
+    "brand_name": "TATA MOTORS",
+    "brand_detail_url": "https://www.autoevolution.com/tata-motors/",
+    "brand_slug": "tata-motors",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/tata-motors-sm.jpg",
+    "brand_image_path": "TATA MOTORS.jpg"
+  },
+  {
+    "brand_name": "TESLA",
+    "brand_detail_url": "https://www.autoevolution.com/tesla-motors/",
+    "brand_slug": "tesla-motors",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/tesla-sm.jpg",
+    "brand_image_path": "TESLA.jpg"
+  },
+  {
+    "brand_name": "TOYOTA",
+    "brand_detail_url": "https://www.autoevolution.com/toyota/",
+    "brand_slug": "toyota",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/toyota-sm.jpg",
+    "brand_image_path": "TOYOTA.jpg"
+  },
+  {
+    "brand_name": "TVR",
+    "brand_detail_url": "https://www.autoevolution.com/tvr/",
+    "brand_slug": "tvr",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/tvr-sm.jpg",
+    "brand_image_path": "TVR.jpg"
+  },
+  {
+    "brand_name": "VAUXHALL",
+    "brand_detail_url": "https://www.autoevolution.com/vauxhall/",
+    "brand_slug": "vauxhall",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/vauxhall-sm.jpg",
+    "brand_image_path": "VAUXHALL.jpg"
+  },
+  {
+    "brand_name": "VinFast",
+    "brand_detail_url": "https://www.autoevolution.com/vinfast/",
+    "brand_slug": "vinfast",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/vinfast-sm.jpg",
+    "brand_image_path": "VinFast.jpg"
+  },
+  {
+    "brand_name": "VOLKSWAGEN",
+    "brand_detail_url": "https://www.autoevolution.com/volkswagen/",
+    "brand_slug": "volkswagen",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/volkswagen-sm.jpg",
+    "brand_image_path": "VOLKSWAGEN.jpg"
+  },
+  {
+    "brand_name": "VOLVO",
+    "brand_detail_url": "https://www.autoevolution.com/volvo/",
+    "brand_slug": "volvo",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/volvo-sm.jpg",
+    "brand_image_path": "VOLVO.jpg"
+  },
+  {
+    "brand_name": "WIESMANN",
+    "brand_detail_url": "https://www.autoevolution.com/wiesmann/",
+    "brand_slug": "wiesmann",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/wiesmann-sm.jpg",
+    "brand_image_path": "WIESMANN.jpg"
+  },
+  {
+    "brand_name": "Xpeng",
+    "brand_detail_url": "https://www.autoevolution.com/xpeng/",
+    "brand_slug": "xpeng",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/xpeng-sm.jpg",
+    "brand_image_path": "Xpeng.jpg"
+  },
+  {
+    "brand_name": "ZENDER",
+    "brand_detail_url": "https://www.autoevolution.com/zender/",
+    "brand_slug": "zender",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/zender-sm.jpg",
+    "brand_image_path": "ZENDER.jpg"
+  },
+  {
+    "brand_name": "Zenvo",
+    "brand_detail_url": "https://www.autoevolution.com/zenvo/",
+    "brand_slug": "zenvo",
+    "brand_description": "",
+    "brand_image_url": "https://s1.cdn.autoevolution.com/images/producers/zenvo-sm.jpg",
+    "brand_image_path": "Zenvo.jpg"
+  }
+]
