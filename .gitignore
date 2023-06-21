@@ -1,0 +1,8 @@
+__pycache__/
+.idea/
+
+brand_logo/
+venv/
+
+all_brand_data.json
+all_series_data.json
