@@ -2,6 +2,7 @@ __pycache__/
 .idea/
 
 brand_logo/
+images/
 venv/
 
 all_brand_data.json

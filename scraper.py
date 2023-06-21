@@ -90,13 +90,23 @@ class BrandScraper:
         with open(self.folder_name, 'r', encoding="UTF-8") as f:
             data = json.load(f)
 
-        # inside brand_logo folder
-        os.chdir(os.path.join(os.getcwd(), 'brand_logo'))
+        # inside folder
+        os.chdir(os.path.join(os.getcwd(), 'images'))
 
         for obj in data:
+            f_name = toFolderName(obj["brand_name"])
+            try:
+                os.mkdir(os.path.join(os.getcwd(), f_name))
+            except OSError as e:
+                print(e)
+
+            os.chdir(os.path.join(os.getcwd(), f_name))
+
             with open(obj["brand_image_path"], 'wb') as f:
                 b_im = requests.get(obj["brand_image_url"])
                 f.write(b_im.content)
+
+            os.chdir('..')
 
         print("Brand Images successfully created")
 
@@ -169,12 +179,12 @@ class SeriesScraper:
                         series_generation_count = s.find('b', {'class': 'col-red'}).text
                     except AttributeError:
                         series_generation_count = None
-                else:
-                    # Generation Count
-                    try:
-                        series_generation_count = s.find('b', {'class': 'col-green2'}).text
-                    except AttributeError:
-                        series_generation_count = None
+            else:
+                # Generation Count
+                try:
+                    series_generation_count = s.find('b', {'class': 'col-green2'}).text
+                except AttributeError:
+                    series_generation_count = None
 
             # Fuel Types
             series_fuel_types = []
@@ -227,3 +237,26 @@ class SeriesScraper:
             json.dump(self.series_data, f, indent=2)
 
         print(f"{self.folder_name} successfully created")
+
+    def create_images(self):
+        with open(self.folder_name, 'r', encoding="UTF-8") as f:
+            data = json.load(f)
+
+        os.chdir(os.path.join(os.getcwd(), 'images'))
+
+        for obj in data:
+            brand_folder_name = toFolderName(obj["brand_name"])
+            os.chdir(os.path.join(os.getcwd(), brand_folder_name))
+
+            series_folder_name = toFolderName(obj["series_name"])
+            series_image_path = f"{series_folder_name}.jpg"
+            os.mkdir(os.path.join(os.getcwd(), series_folder_name))
+            os.chdir(os.path.join(os.getcwd(), series_folder_name))
+            with open(series_image_path, 'wb') as f:
+                s_im = requests.get(obj["series_image_url"])
+                f.write(s_im.content)
+
+            os.chdir('..')
+            os.chdir('..')
+
+        os.chdir('..')
