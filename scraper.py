@@ -146,7 +146,7 @@ class SeriesScraper:
 
         return brands_data
 
-    def __save_series(self, brand_name, brand_detail_url, brand_slug, series_elements):
+    def __save_series(self, brand_name: str, brand_detail_url: str, brand_slug: str, series_elements):
         for s in series_elements:
             series_brand_name = brand_name
             series_title = s.find('h4').get_text()
