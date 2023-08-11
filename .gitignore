@@ -4,6 +4,7 @@ __pycache__/
 brand_logo/
 images/
 venv/
+datas/
 
 all_brand_data.json
 all_series_data.json

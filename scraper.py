@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 
 from helpers import toFolderName, slugify
 
-driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+driver = webdriver.Chrome(service=Service(ChromeDriverManager(version='114.0.5735.90').install()))
 
 
 class BrandScraper:
@@ -67,11 +67,11 @@ class BrandScraper:
 
             new_brand = {
                 "brand_name": brand_new_name,
-                "brand_detail_url": brand_detail_url,
                 "brand_slug": brand_slug,
-                "brand_description": "",
+                "brand_image_path": brand_image_path,
                 "brand_image_url": brand_image_url,
-                "brand_image_path": brand_image_path
+                "brand_detail_url": brand_detail_url,
+                "brand_description": "",
             }
 
             self.brand_data.append(new_brand)
